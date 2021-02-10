@@ -8,7 +8,7 @@
 * [Examples](#examples)
 * [Technologies](#technologies)
 * [Status](#status)
-* [Inspiration](#inspiration)
+* [Inspirations](#inspirations)
 
 ## General info
 
